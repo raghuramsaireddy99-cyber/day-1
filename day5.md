@@ -21,11 +21,11 @@ Plugins add extra features to your website.
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/e9ab7fba-2220-48a7-8226-33004c3317c4" />
 
 #### Examples
-- On click demo import
+- One click demo import
 - SEO Plugin
 #### Steps to Install Plugin
 1. Go to Plugins → Add New
-2. Search "on click demo import"
+2. Search "one click demo import"
 3. Click Install Now
 4. Click Activate
 Plugin Installed Successfully
@@ -37,7 +37,7 @@ Plugin Installed Successfully
 4. Change Fonts
 5. Click Publish
 ### Configure Plugin
-Example: on click demo import
+Example: one click demo import
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/082ab00c-2963-4613-8cae-0876bd962cb3" />
 1. Go to plugin 
 2. import data
@@ -71,11 +71,11 @@ Solution:
 - Check compatibility
 ## Task 5: Document Steps + Demo Output
 ### Demo 1: Theme Installation
-Theme Name: Astra  
+Theme Name: freddo  
 Status: Activated  
 Result: Website design changed  
 ### Demo 2: Plugin Installation
-Plugin Name: Contact Form 7  
+Plugin Name: one click demo data 
 Status: Activated  
 Result: Contact form added
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/434ee4c2-6801-4df6-9353-69035c9c46f8" />
