@@ -1,9 +1,9 @@
-# 📘 WordPress Learning Documentation  
-## Topic: Static vs Dynamic Websites, WordPress Overview, WordPress.org vs WordPress.com
+ WordPress Learning Documentation  
+ Topic: Static vs Dynamic Websites, WordPress Overview, WordPress.org vs WordPress.com
 
 ---
 
-## 🔰 Task 1: Implementation Core Concept
+ Task 1: Implementation Core Concept
 
 - Learned the core concepts of **Static and Dynamic websites**  
 - Understood that:
@@ -22,7 +22,7 @@
 
 ---
 
-## ⚙️ Task 2: Create / Configure Feature
+ Task 2: Create / Configure Feature
 
 - Explored the **WordPress Dashboard**  
 - Understood basic features and navigation  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🎨 Task 3: Customization
+ Task 3: Customization
 
 - Reviewed **theme customization options**  
 - Explored:
@@ -49,7 +49,7 @@
 
 ---
 
-## 🐞 Task 4: Debug & Optimize
+ Task 4: Debug & Optimize
 
 - Reviewed **WordPress settings**  
 - Verified:
@@ -62,7 +62,7 @@
 
 ---
 
-## 📝 Task 5: Documentation
+ Task 5: Documentation
 
 - Documented learning outcomes related to:
   - Static vs Dynamic website concepts  
@@ -72,7 +72,7 @@
 
 ---
 
-## 📌 Summary
+ Summary
 
 Completed learning and exploration of:
 
