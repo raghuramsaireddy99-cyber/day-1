@@ -1,16 +1,13 @@
-# 📘 WordPress Project Documentation  
-## Dashboard, Permalinks, Categories, Tags
+ WordPress Project Documentation  
+ Dashboard, Permalinks, Categories, Tags
+ Task 1: Implement Core Concepts
 
----
-
-# 🔰 Task 1: Implement Core Concepts
-
-## 🖥️ Dashboard
+ Dashboard
 The WordPress Dashboard is the control panel used to manage the entire website.
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/68bb2d9f-3ebf-4663-88db-4a6304df42de" />
 
 
-### Features:
+Features:
 - Posts & Pages management  
 - Media upload  
 - Appearance (Themes)  
@@ -19,16 +16,16 @@ The WordPress Dashboard is the control panel used to manage the entire website.
 
 ---
 
-## 🔗 Permalinks
+ Permalinks
 Permalinks are the permanent URLs of your posts and pages.
 
-### Types:
+Types:
 - Plain: ?p=123  
-- Post Name: /my-post-name/ ✅ (Recommended)  
+- Post Name: /my-post-name/  (Recommended)  
 
 ---
 
-## 📂 Categories
+ Categories
 Categories are used to group related posts.
 
 ### Example:
@@ -38,26 +35,26 @@ Categories are used to group related posts.
 
 ---
 
-## 🏷️ Tags
+ Tags
 Tags describe specific details of a post.
 
-### Example:
+ Example:
 - WordPress  
 - Hosting  
 - UI Design  
 
 ---
 
-# ⚙️ Task 2: Create / Configure Features
+ Task 2: Create / Configure Features
 
-## 🖥️ Dashboard Setup
+ Dashboard Setup
 - Login: `/wp-admin`  
 - Explore menu options  
 - Update profile settings  
 
 ---
 
-## 🔗 Configure Permalinks
+ Configure Permalinks
 1. Go to Settings → Permalinks  
 2. Select:
    Post Name  
@@ -65,7 +62,7 @@ Tags describe specific details of a post.
 
 ---
 
-## 📂 Create Categories
+ Create Categories
 1. Go to Posts → Categories  
 2. Add:
    - Name  
@@ -74,7 +71,7 @@ Tags describe specific details of a post.
 
 ---
 
-## 🏷️ Create Tags
+ Create Tags
 1. Go to Posts → Tags  
 2. Add:
    - Name  
@@ -83,59 +80,53 @@ Tags describe specific details of a post.
 
 ---
 
-# 🎨 Task 3: Customize UI / Settings
+ Task 3: Customize UI / Settings
 
-## 🖥️ Dashboard Customization
+ Dashboard Customization
 - Use Screen Options  
 - Rearrange widgets  
 - Hide unwanted sections  
 
 ---
 
-## 🔗 Permalink Customization
+ Permalink Customization
 - Use custom structure:
   /%category%/%postname%/  
 
 ---
 
-## 📂 Categories Customization
+ Categories Customization
 - Add descriptions  
 - Use parent-child categories  
 
 ---
 
-## 🏷️ Tags Customization
+ Tags Customization
 - Add meaningful keywords  
 - Avoid too many tags  
 
 ---
 
-# 🛠️ Task 4: Debug / Optimize
+ Task 4: Debug / Optimize
 
-## ❗ Common Issues
+ Common Issues
 
-### Permalink Not Working
+ Permalink Not Working
 - Go to Permalinks → Click Save again  
 
----
-
-### Categories Not Showing
+ Categories Not Showing
 - Assign category while creating post  
 
----
-
-### Tags Not Displaying
+Tags Not Displaying
 - Ensure theme supports tags  
 
----
 
-### Dashboard Slow
+Dashboard Slow
 - Disable unnecessary plugins  
 - Clear cache  
 
----
 
-## 🚀 Optimization Tips
+Optimization Tips
 
 - Use SEO-friendly permalinks  
 - Limit number of categories  
@@ -144,9 +135,9 @@ Tags describe specific details of a post.
 
 ---
 
-# 📄 Task 5: Documentation + Demo Output
+ Task 5: Documentation + Demo Output
 
-## 📌 Steps Summary
+ Steps Summary
 1. Accessed Dashboard  
 2. Configured Permalinks  
 3. Created Categories  
@@ -155,33 +146,32 @@ Tags describe specific details of a post.
 
 ---
 
-## 🌐 Demo Output
+ Demo Output
 
-### Example URL:
+ Example URL:
 http://localhost/mysite/sample-post  
 
-### Admin Panel:
+Admin Panel:
 http://localhost/mysite/wp-admin  
 
 ---
 
-## 📸 Screenshots to Include
+ Screenshots to Include
 - Dashboard screen  
 - Permalink settings  
 - Categories page  
 - Tags page  
 
+
+ Final Result
+
+ Dashboard configured  
+ SEO-friendly permalinks set  
+ Categories and tags created  
+ Website structured properly  
+
 ---
 
-# 🎯 Final Result
-
-✔ Dashboard configured  
-✔ SEO-friendly permalinks set  
-✔ Categories and tags created  
-✔ Website structured properly  
-
----
-
-# 💡 Conclusion
+ Conclusion
 
 This project demonstrates the basic structure and content organization in WordPress using dashboard controls, URL settings, and content classification tools.
