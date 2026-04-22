@@ -26,7 +26,7 @@ Uploaded beach images
 
  Task 3
 Customized Goa blog layout and design  
-📸 ![Task3](images/task3.png)  
+ ![Task3](images/task3.png)  
 Formatted headings and content  
 Added images and sections  
 
